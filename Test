@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<iframe width="100vw" height="100%" src="https://collaboration.mhq.htd.gov.sg/e-rpa/SitePages/Home.aspx"></iframe>
+  </body>
+</html>
